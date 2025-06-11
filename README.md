@@ -44,4 +44,4 @@ It combines **OCR, AI chatbots, smart wallets, and risk analysis** into one seam
 
 
 ![Homepage](images/homepage.png)
-![Dashboard](./frontend/public/images/dashboard.png)
+![Dashboard](images/dashboard.png)
