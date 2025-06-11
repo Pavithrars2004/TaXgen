@@ -42,9 +42,6 @@ It combines **OCR, AI chatbots, smart wallets, and risk analysis** into one seam
 - **Database:** Firebase Firestore  
 - **APIs:** Custom REST APIs
 
----
-### 🖼️ Homepage
-![Homepage](./frontend/public/images/homepage.png)
 
-### 🖼️ Dashboard
+![Homepage](./frontend/public/images/homepage.png)
 ![Dashboard](./frontend/public/images/dashboard.png)
