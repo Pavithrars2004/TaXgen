@@ -43,4 +43,8 @@ It combines **OCR, AI chatbots, smart wallets, and risk analysis** into one seam
 - **APIs:** Custom REST APIs
 
 ---
+### 🖼️ Homepage
+![Homepage](./frontend/public/images/homepage.png)
 
+### 🖼️ Dashboard
+![Dashboard](./frontend/public/images/dashboard.png)
