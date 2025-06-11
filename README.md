@@ -1,9 +1,5 @@
 # 📊 TaXgen - Smart Tax Wallet & Automated Tax Filing System
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Pavithrars2004/TaXgen?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Pavithrars2004/TaXgen?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/Pavithrars2004/TaXgen?style=for-the-badge)
-
 ---
 
 ## 🚀 Project Overview
